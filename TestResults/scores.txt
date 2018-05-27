@@ -1,3 +1,0 @@
-SP Att.        SP Att.F       #Depots        Ref. Att.      Ref. Att.F     #Refineries    CC Att.        CC Att.f       Mins           Gas            IdleSCVs       CCs            Supply         Score          
-13             0              12             0              0              0              2              1              2235           0              0              2              25/126         4435           
-15             0              12             0              0              0              8              7              1805           0              0              2              33/126         4405           
