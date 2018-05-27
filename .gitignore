@@ -1,0 +1,6 @@
+*.swp
+*.swo
+.idea/
+TestResult/
+*.gz
+__pycache__/
